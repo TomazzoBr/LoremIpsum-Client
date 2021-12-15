@@ -13,7 +13,7 @@
 This is the client repo of **Lorem Ipsum** app.
 A CV builder that helps you to create your own CVs just with a few clicks and also store them for future updates or downloads, saving and incredible amount of time and also being sure that your CV will pass most of the Applicant Tracking Systems that could reject your CV even before it reaches a recruiter.
 
-You can find the server repo on the [Lorem Ipsum Server](https://github.com/NeoCephei/LoremIpsum-Server)
+You can find the server repo on the [Lorem Ipsum Server](https://github.com/TomazzoBr/LoremIpsum-Server)
 
 [Presentation Video](https://www.youtube.com/watch?v=oDUdlnxxFIA)
 
